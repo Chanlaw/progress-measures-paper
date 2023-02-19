@@ -4,6 +4,7 @@ mypy
 numpy
 pandas
 plotly
+scipy
 seaborn
 torch
 tqdm
