@@ -1,0 +1,10 @@
+einops
+matplotlib
+mypy
+numpy
+pandas
+plotly
+seaborn
+torch
+tqdm
+wandb
